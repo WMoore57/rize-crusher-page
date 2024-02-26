@@ -1,23 +1,23 @@
 .body-class {
-  background-color: #f5f5f5; 
-  font-family: Arial, sans-serif; 
+  background-color: Salmon; 
+  font-family: Georgia, serif; 
   font-size: 16px; 
 }
 
 .header-class {
-  background-color: #333; 
-  color: #fff; 
-  padding: 20px;
+  background-color: CadetBlue; 
+  color: white; 
+  padding: 5px;
 }
 
 .nav-class {
-  background-color: #444; 
-  color: #fff; 
+  background-color: NavajoWhite; 
+  color: Salmon; 
   padding: 10px;
 }
 
 .nav-link-class {
-  color: #fff; 
+  color: white; 
   text-decoration: none;
   margin: 0 10px;
 }
@@ -29,17 +29,15 @@
 
 .title-class,
 .section-title-class {
-  color: #333; 
+  color: White; 
 }
 
-/* Text styles */
 .text-class {
-  color: #444; 
+  color: white; 
 }
 
-/* Image styles */
 .image-class {
-  border: 3px solid #333; 
+  border: 3px solid CadetBlue; 
   max-width: 100%; 
   height: auto;
 }
@@ -48,12 +46,11 @@
 .form-class input[type="text"],
 .form-class input[type="email"],
 .button-class {
-  background-color: #333; 
-  color: #fff; 
-  border: none;
+  background-color: CadetBlue; 
+  color: white; 
+  border: 1px;
   padding: 8px 16px;
   border-radius: 4px;
-  cursor: pointer;
 }
 
 .form-class input[type="text"],
@@ -63,13 +60,14 @@
 }
 
 .button-class:hover {
-  background-color: #444; 
+  background-color: cadetblue;
+  color: dimgray; 
 }
 
 
 .footer-class {
-  background-color: #333; 
-  color: #fff; 
+  background-color: cadetblue; 
+  color: white; 
   text-align: center;
   padding: 20px;
 }
