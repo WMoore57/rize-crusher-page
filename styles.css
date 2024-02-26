@@ -38,7 +38,7 @@
 
 .image-class {
   border: 3px solid CadetBlue; 
-  max-width: 100%; 
+  max-width: 40%; 
   height: auto;
 }
 
@@ -55,21 +55,20 @@
 
 .form-class input[type="text"],
 .form-class input[type="email"] {
-  width: 100%;
-  margin-bottom: 10px;
+  width: 40%;
+  
 }
 
 .button-class:hover {
-  background-color: cadetblue;
-  color: dimgray; 
+  background-color: white;
+  color: cadetblue; 
 }
 
 
 .footer-class {
   background-color: cadetblue; 
   color: white; 
-  text-align: center;
-  padding: 5px;
+  text-align: center;  
 }
 
 
